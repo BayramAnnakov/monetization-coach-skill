@@ -47,7 +47,3 @@ Early-stage AI founders who:
 [Bayram Annakov](https://linkedin.com/in/bayramannakov) / [Onsa.ai](https://onsa.ai)
 
 Part of the [AI Founder](https://empatika.com/courses/ai-founder) course.
-
-## Interactive web version
-
-For a web-based coaching experience (no Claude Code needed): [onsa-monetization-coach.fly.dev](https://onsa-monetization-coach.fly.dev)
